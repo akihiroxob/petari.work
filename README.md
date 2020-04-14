@@ -12,7 +12,7 @@ Roomを作成した利用者以外の第三者が同一のRoom名を作成した
 
 ## Petari の使い方
 
-1. [部屋を作成する](https://github.com/akihiroxob/petari.work/doc/create_new_room.md)
+1. [部屋を作成する](https://github.com/akihiroxob/petari.work/blob/master/doc/create_new_room.md)
 2. 付箋を貼る・編集する・削除する
 3. 付箋を操作する・変更する・検索する
 4. 線を書く・消す
